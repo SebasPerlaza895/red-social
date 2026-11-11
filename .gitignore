@@ -1,5 +1,3 @@
-git remote add origin https://github.com/burgosmicheldahiana-hue/red-social.git
-
 .env
 __pycache__/
 *.pyc
